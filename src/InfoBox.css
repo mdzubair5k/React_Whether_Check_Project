@@ -1,0 +1,26 @@
+body{
+    background-color: #6a428dd3;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size:large;
+}
+.InfoBox {
+    text-align: center;
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    color: black;
+}
+
+.weather{
+    background-color: rgb(78, 2, 2) !important;
+    color: white !important;
+}
+.content{
+    color: white !important;
+}
