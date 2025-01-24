@@ -9,7 +9,7 @@ npm install
 ## Usage
 To start the application, use the command:
 ```sh
-npm start
+npm run dev
 ```
 
 ## Description
