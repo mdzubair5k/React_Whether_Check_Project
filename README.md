@@ -36,7 +36,7 @@ Accuracy Note: The website may sometimes experience minor accuracy loss in weath
 
 
 ## Contact
-- **LinkedIn**: [Your LinkedIn Username](https://www.linkedin.com/in/mohd-zubair5k/)
-- **GitHub**: [Your GitHub Username](https://github.com/mdzubair5k)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/mohd-zubair5k/)
+- **GitHub**: [GitHub](https://github.com/mdzubair5k)
 
 
